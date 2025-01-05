@@ -1,0 +1,6 @@
+db:
+  port: 5432
+  host: localhost
+  name: healthcare_db
+  user: admin
+  password: admin
